@@ -1,7 +1,6 @@
 # SAGA
 
 ## reference
-https://gitcode.yealink.com/server/be/document/cloud/function-design/-/blob/master/user-manager/saga%E6%A8%A1%E5%BC%8F%E5%AE%9E%E7%8E%B0/%E7%94%A8%E6%88%B7%E4%B8%AD%E5%BF%83saga%E6%A8%A1%E5%BC%8F%E5%AE%9E%E7%8E%B0.md
 
 https://microservices.io/patterns/data/saga.html
 
