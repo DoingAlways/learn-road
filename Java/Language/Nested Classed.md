@@ -85,8 +85,6 @@ p -> p.getGender() == Person.Sex.MALE
 
 ## 4. When to Use Above Class
 
-除了[1. Why Use Nested Classes](#1-why-use-nested-classes)
-
 - **Local class**: Use it if you need to create more than one instance of a class, access its constructor, or introduce a new, named type (because, for example, you need to invoke additional methods later)
 - **Anonymous class**: Use it if you need to declare fields or additional methods
 - **Lambda expression**: 
